@@ -10,12 +10,13 @@
   --color-foreground: var(--foreground);
   --font-manrope: var(--font-manrope);
   --font-inter: var(--font-inter);
+  --font-instrument: var(--font-instrumentSans);
 }
 
 body {
   background: var(--background);
   color: var(--foreground);
-  font-family: var(--font-inter), Arial, Helvetica, sans-serif;
+  font-family: var(---font-instrumentSans), Arial, Helvetica, sans-serif;
 }
 
 h1,
