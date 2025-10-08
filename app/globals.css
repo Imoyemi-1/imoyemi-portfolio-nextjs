@@ -1,5 +1,7 @@
 @import 'tailwindcss';
-@import "tw-animate-css";
+@import 'tw-animate-css';
+@import 'swiper/css';
+@import 'swiper/css/autoplay';
 
 @custom-variant dark (&:is(.dark *));
 
@@ -46,13 +48,6 @@
 
 body {
   font-family: var(---font-instrumentSans), Arial, Helvetica, sans-serif;
-}
-
-h1,
-h2,
-h3,
-h4 {
-  @apply font-manrope;
 }
 
 html {
