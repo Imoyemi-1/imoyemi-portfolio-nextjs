@@ -11,11 +11,9 @@ const Hero = () => {
             <div className='h-2 w-2 rounded-full bg-green-600'></div>
             Crafting Unique Brand Identities
           </Badge>
-          <h1 className='font-instrument scroll-m-20 text-center text-[2.6rem]/14 font-semibold tracking-tight text-balance text-[rgb(20,17,16)] '>
+          <h1 className='font-instrument scroll-m-20 text-center text-5xl/14 font-semibold tracking-tight  text-[rgb(20,17,16)] max-w-[40rem]'>
             Branding You Need.{' '}
-            <span className='text-[rgb(148,148,158)]'>
-              Website <br /> That Work
-            </span>
+            <span className='text-[rgb(148,148,158)]'>Website That Work</span>
           </h1>
           <p className='text-[rgb(69,69,79)] text-center text-pretty'>
             Elevate your brand with custom identity and high-performance

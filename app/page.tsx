@@ -1,8 +1,9 @@
 import Link from 'next/link';
 import Image from 'next/image';
 import NavBar from './components/NavBar';
-import { HiOutlineMenuAlt3 } from 'react-icons/hi';
 import Hero from './components/Hero';
+import QuoteButton from './components/QuoteButton';
+import MenuBar from './components/MenuBar';
 
 export default function Home() {
   return (
@@ -18,7 +19,10 @@ export default function Home() {
           />
         </Link>
         <NavBar />
-        <HiOutlineMenuAlt3 className='w-6 h-6 cursor-pointer' />
+        <div>
+          <QuoteButton />
+          <MenuBar />
+        </div>
       </header>
       <Hero />
     </div>
