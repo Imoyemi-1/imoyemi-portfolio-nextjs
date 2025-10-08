@@ -1,5 +1,6 @@
 import { Button } from '@/components/ui/button';
 import { Badge } from '@/components/ui/badge';
+import LogoSlider from './LogoSlider';
 
 const Hero = () => {
   return (
@@ -41,7 +42,8 @@ const Hero = () => {
         <h6 className='text-[rgb(69,69,79)] font-medium'>
           Powered by modern tools
         </h6>
-        <div></div>
+
+        <LogoSlider />
       </div>
     </section>
   );

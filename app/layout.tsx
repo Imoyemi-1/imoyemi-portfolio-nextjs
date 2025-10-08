@@ -1,6 +1,7 @@
 import type { Metadata } from 'next';
 import { Manrope, Inter, Instrument_Sans } from 'next/font/google';
 import './globals.css';
+// Import Swiper styles
 
 const manrope = Manrope({
   variable: '--font-manrope',
