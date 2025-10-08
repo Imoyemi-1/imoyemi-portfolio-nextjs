@@ -46,6 +46,17 @@
 
 body {
   font-family: var(---font-instrumentSans), Arial, Helvetica, sans-serif;
+
+  background-color: rgba(247, 247, 247, 0.8); /* Fallback white */
+  background-image: repeating-linear-gradient(
+    45deg,
+    /* Angle for / slant */ #f5f5f5 0px,
+    /* Light gray start */ #f3f3f3 1px,
+    /* Thin gray line (adjust width here) */ transparent 1px,
+    /* End of line, start of white space */ transparent 10px
+      /* Spacing between lines (adjust for density) */
+  );
+  background-size: 28px 28px; /* Controls pattern repeat size; sqrt(2)*spacing for diagonals */
 }
 
 html {

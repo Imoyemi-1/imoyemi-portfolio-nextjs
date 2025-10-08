@@ -4,7 +4,7 @@ import LogoSlider from './LogoSlider';
 
 const Hero = () => {
   return (
-    <section className='flex flex-col bg-white shadow-[0_1px_2px_#090d030d] m-4 px-4 py-15 rounded-xl border border-[rgb(224,224,230)] item-center gap-18 h-fit'>
+    <section className='flex flex-col bg-white shadow-[0_1px_2px_#090d030d] m-4 px-4 py-15 rounded-xl border border-[rgb(224,224,230)] item-center gap-18 h-fit max-w-[1152px] lg:mx-auto'>
       <div className='flex flex-col gap-8'>
         <div className='flex flex-col gap-4 items-center'>
           <Badge className='backdrop-blur-3xl shadow bg-[#f1f1f4] rounded-3xl px-4 py-1 flex items-center gap-2 text-[rgb(27,27,37)]'>
