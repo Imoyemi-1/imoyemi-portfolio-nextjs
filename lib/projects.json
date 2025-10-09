@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "title": "Money Tracker",
+    "description": "A simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+    "github": "https://www.lipsum.com/",
+    "image": "https://placehold.co/400",
+    "techStack": [
+      {
+        "name": "react",
+        "backgroundColor": "sky-500",
+        "color": "white"
+      },
+      {
+        "name": "dexie js",
+        "backgroundColor": "gray-600",
+        "color": "white"
+      },
+
+      {
+        "name": "chartjs",
+        "backgroundColor": "red-400",
+        "color": "white"
+      },
+      {
+        "name": "tailwind css",
+        "backgroundColor": "sky-500",
+        "color": "white"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "FreeMode",
+    "description": "A simply survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s.",
+    "github": "https://www.lipsum.com/",
+    "image": "https://placehold.co/400",
+    "techStack": [
+      {
+        "name": "react",
+        "backgroundColor": "sky-500",
+        "color": "white"
+      },
+      {
+        "name": "dexie js",
+        "backgroundColor": "gray-600",
+        "color": "white"
+      },
+
+      {
+        "name": "chartjs",
+        "backgroundColor": "red-400",
+        "color": "white"
+      },
+      {
+        "name": "tailwind css",
+        "backgroundColor": "sky-500",
+        "color": "white"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Aust Ai",
+    "description": "A long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+    "github": "https://www.lipsum.com/",
+    "image": "https://placehold.co/400",
+    "techStack": [
+      {
+        "name": "react",
+        "backgroundColor": "sky-500",
+        "color": "white"
+      },
+      {
+        "name": "dexie js",
+        "backgroundColor": "gray-600",
+        "color": "white"
+      },
+
+      {
+        "name": "chartjs",
+        "backgroundColor": "red-400",
+        "color": "white"
+      },
+      {
+        "name": "tailwind css",
+        "backgroundColor": "sky-500",
+        "color": "white"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "TextBox",
+    "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered-400 alteration in some form",
+    "github": "https://www.lipsum.com/",
+    "image": "https://placehold.co/400",
+    "techStack": [
+      {
+        "name": "react",
+        "backgroundColor": "sky-500",
+        "color": "white"
+      },
+      {
+        "name": "dexie js",
+        "backgroundColor": "gray-600",
+        "color": "white"
+      },
+
+      {
+        "name": "chartjs",
+        "backgroundColor": "red-400",
+        "color": "white"
+      },
+      {
+        "name": "tailwind css",
+        "backgroundColor": "sky-500",
+        "color": "white"
+      }
+    ]
+  }
+]

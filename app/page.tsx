@@ -5,6 +5,7 @@ import Hero from './components/Hero';
 import QuoteButton from './components/QuoteButton';
 import MenuBar from './components/MenuBar';
 import Services from './components/Services';
+import Portfolio from './components/Portfolio';
 
 export default function Home() {
   return (
@@ -27,6 +28,7 @@ export default function Home() {
       </header>
       <Hero />
       <Services />
+      <Portfolio />
     </div>
   );
 }
