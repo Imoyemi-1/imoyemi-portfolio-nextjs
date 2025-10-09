@@ -4,6 +4,7 @@ import NavBar from './components/NavBar';
 import Hero from './components/Hero';
 import QuoteButton from './components/QuoteButton';
 import MenuBar from './components/MenuBar';
+import Services from './components/Services';
 
 export default function Home() {
   return (
@@ -25,6 +26,7 @@ export default function Home() {
         </div>
       </header>
       <Hero />
+      <Services />
     </div>
   );
 }

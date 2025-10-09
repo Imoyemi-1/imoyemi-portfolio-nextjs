@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "Brand & Strategy",
+    "category": [
+      "Brand direction & visual identity",
+      "Website structure planning",
+      "Copy & messaging guidance",
+      "Conversion-focused strategy"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Web Design & Development",
+    "category": [
+      "Landing page design",
+      "Responsive website",
+      "CMS integration",
+      "Performance & SEO optimization"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Ongoing Support",
+    "category": [
+      "Maintenance & content updates",
+      "Analytics setup",
+      "UI tweaks & A/B testing",
+      "Technical support"
+    ]
+  }
+]
